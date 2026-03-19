@@ -23,7 +23,7 @@ Motion Canvas
 TypeScript
 
 🚀 Getting Started
-git clone https://github.com/your-username/neural-network-animation.git
+git clone https://github.com/ClayJense/motion-showcase.git
 npm install
 npm start
 📁 Project Structure
